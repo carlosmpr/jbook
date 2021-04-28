@@ -1,4 +1,4 @@
-# JavaScript Junniperr Book Style
+# JavaScript jupyter  Book Style
 
 JBOOK is inline code editor bundle for javascript and React
 
